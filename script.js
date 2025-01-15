@@ -343,7 +343,7 @@ const todoList = [
 
 {
   id: -2,
-  name: "Ngoding proyek",
+  name: "Ngoding",
   completed: true },
 
 {
@@ -358,7 +358,7 @@ const todoList = [
 
 {
   id: -5,
-  name: "Tidur",
+  name: "Bobok",
   completed: true }];
 
 
